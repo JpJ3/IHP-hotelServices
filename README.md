@@ -18,7 +18,8 @@ if you want to test that the app communicates properly with the webpage you can 
 WebPage:
 
 1.Download the zip file from dropbox:
-https://www.dropbox.com/s/djmjr6myurwu17l/HotelManagement.zip?dl =0
+https://www.dropbox.com/s/djmjr6myurwu17l/HotelManagement.zip?dl=0
+
 2. unzip and follow the same process as above:
 
 3.open the folder Hotel Management
